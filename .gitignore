@@ -1,0 +1,30 @@
+# מפתחות - לעולם לא
+.env
+
+# הדאטה והפלטים של המשתמש
+brand-style.md
+comments.txt
+thumbs/
+clips/
+reels/
+*.mp4
+*.mov
+*.wav
+*.mp3
+.cache/
+masks/
+
+# קובץ מקור פנימי
+.claude/skills/reels-editing/references/.source-prompts.json
+
+# תיקיית הצילום ותכנון - לא לריפו הציבורי
+demo/
+.filming/
+script/
+publishing/
+VIDEO.md
+*תסריט*.md
+
+# מערכת
+.DS_Store
+node_modules/
